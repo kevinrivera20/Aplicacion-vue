@@ -174,6 +174,7 @@
   }
   .title {
     font-weight: 350;
+    margin-top: 40px;
   }
   .input {
     width: 100%;
